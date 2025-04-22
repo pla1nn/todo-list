@@ -15,7 +15,7 @@ export const DropdownMenu = styled.div`
     position: absolute;
     top: 100%;
     left: 0;
-    width: 100%;
+    width: 400px;
     padding: 20px;
     text-align: center;
     background-color: teal;
